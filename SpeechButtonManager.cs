@@ -18,7 +18,7 @@ public class SpeechButtonManager : MonoBehaviour
         public string label_text {get; set;}
         public string sort {get; set;}
     }
-    private const string SubscriptionKey = "81816fccffb44ee1bbd0bace06044270";
+    private const string SubscriptionKey = "";
     private const string Region = "westus";
 
     public GameObject canvas;
